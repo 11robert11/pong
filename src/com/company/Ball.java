@@ -12,6 +12,7 @@ public class Ball {
     private static float slope;   //Rise over run
     private static short b;
     private static byte direction = 1;
+
     public static void setRadius(short i)
     {
         radius = i;
